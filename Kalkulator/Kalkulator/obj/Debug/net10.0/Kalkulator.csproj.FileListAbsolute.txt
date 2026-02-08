@@ -1,0 +1,14 @@
+C:\Users\mateusz\source\repos\Kalkulator\Kalkulator\bin\Debug\net10.0\Kalkulator.exe
+C:\Users\mateusz\source\repos\Kalkulator\Kalkulator\bin\Debug\net10.0\Kalkulator.deps.json
+C:\Users\mateusz\source\repos\Kalkulator\Kalkulator\bin\Debug\net10.0\Kalkulator.runtimeconfig.json
+C:\Users\mateusz\source\repos\Kalkulator\Kalkulator\bin\Debug\net10.0\Kalkulator.dll
+C:\Users\mateusz\source\repos\Kalkulator\Kalkulator\bin\Debug\net10.0\Kalkulator.pdb
+C:\Users\mateusz\source\repos\Kalkulator\Kalkulator\obj\Debug\net10.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateusz\source\repos\Kalkulator\Kalkulator\obj\Debug\net10.0\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\mateusz\source\repos\Kalkulator\Kalkulator\obj\Debug\net10.0\Kalkulator.AssemblyInfo.cs
+C:\Users\mateusz\source\repos\Kalkulator\Kalkulator\obj\Debug\net10.0\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\mateusz\source\repos\Kalkulator\Kalkulator\obj\Debug\net10.0\Kalkulator.dll
+C:\Users\mateusz\source\repos\Kalkulator\Kalkulator\obj\Debug\net10.0\refint\Kalkulator.dll
+C:\Users\mateusz\source\repos\Kalkulator\Kalkulator\obj\Debug\net10.0\Kalkulator.pdb
+C:\Users\mateusz\source\repos\Kalkulator\Kalkulator\obj\Debug\net10.0\Kalkulator.genruntimeconfig.cache
+C:\Users\mateusz\source\repos\Kalkulator\Kalkulator\obj\Debug\net10.0\ref\Kalkulator.dll
